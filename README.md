@@ -1,9 +1,8 @@
-# Titolo di primo livello
-lalla
-
+# Welcome to my page! :D
 ## Biografia
-lullu
-## Sottotitolo 1
-lilli
+Hey, my name is Michael and i'm 20. I'm a developer for years and i love biscuits.
+
 ## Contatti
-[LINK](https://github.com/Mike7373)
+Instagram: __mike73__
+Telegram: @Mike7373
+Discord: Mike73#6862

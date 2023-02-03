@@ -4,5 +4,7 @@ Hey, my name is Michael and i'm 20. I'm a developer for years and i love biscuit
 
 ## Contatti
 Instagram: __mike73__
+
 Telegram: @Mike7373
+
 Discord: Mike73#6862

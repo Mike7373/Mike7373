@@ -1,5 +1,5 @@
 # Biography
-Hey, my name is Michael and i'm 20. I enjoy programming games and eat cookies🍪.
+Hey, my name is Michael and i'm 21. I enjoy programming games and eat cookies🍪.
 
 # Contacts
 Instagram: \_\_mike73\_\_

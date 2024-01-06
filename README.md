@@ -1,13 +1,13 @@
 # Biography
-Hey, my name is Michael and i'm 21. I enjoy programming games and eat cookies🍪.
+Hey, I'm Michael. Here you can see the project i'm working on.
+Have a good time! 😁
 
 # Contacts
 E-Mail: mic.bellotti02@gmail.com
+        mike73.dev@gmail.com
 
-Linkedin: www.linkedin.com/in/michael-bellotti-6b9b7a29a
-
-Instagram: \_\_mike73\_\_
-
-Telegram: @Mike7373
+Linkedin: https://www.linkedin.com/in/michael-bellotti-6b9b7a29a/
 
 Discord: Mike73#6862
+
+Itch.io: https://mike7373.itch.io/

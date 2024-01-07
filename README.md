@@ -1,6 +1,6 @@
 # Biography
 Hey, I'm Michael. Here you can see the project i'm working on.
-Have a good time! 😁
+Have a good time! :)
 
 # Contacts
 E-Mail: mic.bellotti02@gmail.com

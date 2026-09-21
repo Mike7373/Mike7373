@@ -3,8 +3,7 @@ Hey, I'm Michael. Here you can see the project i'm working on.
 Have a good time! :)
 
 # Contacts
-E-Mail: mic.bellotti02@gmail.com
-        mike73.dev@gmail.com
+E-Mail: michael.bellotti@protonmail.com | mic.bellotti02@gmail.com
 
 Linkedin: https://www.linkedin.com/in/michael-bellotti-6b9b7a29a/
 

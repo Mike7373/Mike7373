@@ -3,7 +3,7 @@ Hey, I'm Michael. Here you can see the project i'm working on.
 Have a good time! :)
 
 # Portfolio
-[www.bellottimichael.com](www.bellottimichael.com)
+[bellottimichael.com](bellottimichael.com)
 
 # Contacts
 E-Mail: michael.bellotti@protonmail.com | mic.bellotti02@gmail.com

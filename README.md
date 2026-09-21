@@ -2,8 +2,8 @@
 Hey, I'm Michael. Here you can see the project i'm working on.
 Have a good time! :)
 
-# Portfolio[
-https://bellottimichael.com/
+# Portfolio
+[bellottimichael.com]([url](https://bellottimichael.com))
 
 # Contacts
 E-Mail: michael.bellotti@protonmail.com | mic.bellotti02@gmail.com
